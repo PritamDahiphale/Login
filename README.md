@@ -158,7 +158,9 @@ span.psw {
   </form>
 </div>
 
-<script>
+
+</body>
+  <script>
 // Get the modal
 var modal = document.getElementById('id01');
 
@@ -170,5 +172,4 @@ window.onclick = function(event) {
 }
 </script>
 
-</body>
 </html>
